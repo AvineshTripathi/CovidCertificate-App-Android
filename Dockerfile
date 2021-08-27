@@ -18,5 +18,12 @@ RUN $ANDROID_HOME/cmdline-tools/bin/sdkmanager --sdk_root=$ANDROID_HOME "build-t
     "platforms;android-${ANDROID_VERSION}" \
     "platform-tools" 
 
-RUN apt-get update
-RUN apt-get install -y imagemagick
+RUN apt-get install -y checkinstall libwebp-dev libopenjp2-7-dev librsvg2-dev libde265-dev
+RUN wget https://www.imagemagick.org/download/ImageMagick.tar.gz
+RUN tar xzvf ImageMagick.tar.gz
+RUN ./configure --enable-shared --with-modules --with-gslib
+RUN make
+RUN make install
+RUN ldconfig /usr/local/lib
+RUN identify -version
+RUN magick -version
