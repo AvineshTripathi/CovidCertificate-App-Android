@@ -13,7 +13,7 @@ The app design, UX and implementation was done by [Ubique](https://www.ubique.ch
 COVID Certificate is the official app for storing and presenting COVID certificates issued in Switzerland.
 The certificates are kept and checked locally on the user's phone.
 
-<p>
+<p display='flex'>
 <a href='https://play.google.com/store/apps/details?id=ch.admin.bag.covidcertificate.wallet'>
 <img alt='Get it on Google Play' src='badges/googleplay.png' width="30%"/>
 </a>
