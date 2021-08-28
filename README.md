@@ -40,10 +40,10 @@ The validation is executed locally on the phone and no information of the scanne
 
 <p align="verticalcenter">
 <a href='https://play.google.com/store/apps/details?id=ch.admin.bag.covidcertificate.verifier'>
-<img align="left" alt='Get it on Google Play' src='badges/googleplay.png' width="30%"/>
+<img  alt='Get it on Google Play' src='badges/googleplay.png' width="30%"/>
 </a>
 <a href='https://f-droid.org/packages/ch.admin.bag.covidcertificate.verifier'>
-<img align="center" alt='Get it on F-Droid' src='badges/fdroid.png' width="30%"/>
+<img  alt='Get it on F-Droid' src='badges/fdroid.png' width="30%"/>
 </a>
 <a href='https://appgallery.huawei.com/#/app/C104435637'>
 <img alt='Explore it on AppGallery' src='badges/app-gallery-badge.png' width="30%"/>
