@@ -15,13 +15,13 @@ The certificates are kept and checked locally on the user's phone.
 
 <p align="verticalcenter">
 <a href='https://play.google.com/store/apps/details?id=ch.admin.bag.covidcertificate.wallet'>
-<img alt='Get it on Google Play' width="30%"/>
+<img alt='Get it on Google Play' src='badges/googleplay.png' width="30%"/>
 </a>
 <a href='https://f-droid.org/packages/ch.admin.bag.covidcertificate.wallet'>
-<img alt='Get it on F-Droid'  width="30%"/>
+<img alt='Get it on F-Droid' src='badges/fdroid.png' width="30%"/>
 </a>
 <a href='https://appgallery.huawei.com/#/app/C104434571'>
-<img alt='Explore it on AppGallery'  width="30%"/>
+<img alt='Explore it on AppGallery'  src='badges/appgallery.png' width="30%"/>
 </a>
 </p>
 
