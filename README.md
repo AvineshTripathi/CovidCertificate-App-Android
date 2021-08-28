@@ -46,7 +46,7 @@ The validation is executed locally on the phone and no information of the scanne
 <img alt='Get it on F-Droid' src='badges/fdroid.png' width="30%"/>
 </a>
 <a href='https://appgallery.huawei.com/#/app/C104435637'>
-<img alt='Explore it on AppGallery' src='badges/app-gallery-badge.png' width="30%"/>
+<img align="right" alt='Explore it on AppGallery' src='badges/app-gallery-badge.png' width="30%"/>
 </a>
 </p>
 
